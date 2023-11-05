@@ -3,7 +3,7 @@
 .todo-list {
     font-family: Arial, sans-serif;
     max-width: 800px;
-    height: 600px;
+    min-height: 600px;
     width: 100%;
     margin: 0 auto;
     padding: 30px;
